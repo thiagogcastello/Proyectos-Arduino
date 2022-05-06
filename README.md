@@ -5,13 +5,13 @@
 
 
 # Integrantes:
-  -Castello Thiago
+  - Castello Thiago
   
-  -Forni Gonzalez
+  - Forni Gonzalez
   
-  -Gatii Ingacio Pablo
+  - Gatii Ingacio Pablo
  
-  -Heredia Facundo
+  - Heredia Facundo
 
 # Link tinkercad
 
