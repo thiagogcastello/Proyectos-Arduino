@@ -1,7 +1,7 @@
 # ---------- TPS SPD --------------
 
 
-#Integrantes:
+# Integrantes:
 #  -Castello Thiago
 #  -Forni Gonzalez
 #  -Gatii Ingacio Pablo
