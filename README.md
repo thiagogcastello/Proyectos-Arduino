@@ -1,6 +1,9 @@
 # ---------- TPS SPD --------------
 
 
+# Grupo: Los pollos hermanos
+
+
 # Integrantes:
   -Castello Thiago
   
@@ -9,3 +12,7 @@
   -Gatii Ingacio Pablo
  
   -Heredia Facundo
+
+# Link tinkercad
+
+  -
