@@ -15,4 +15,4 @@
 
 # Link tinkercad
 
-  - https://www.tinkercad.com/things/iEr2Z1miyFh
+  - Cronometro Binario Tp 1: https://www.tinkercad.com/things/iEr2Z1miyFh
