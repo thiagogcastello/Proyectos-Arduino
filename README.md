@@ -1,7 +1,7 @@
 # ---------- TPS SPD --------------
 
 
-# Grupo: Los pollos hermanos
+# Grupo: "Los pollos hermanos"
 
 
 # Integrantes:
