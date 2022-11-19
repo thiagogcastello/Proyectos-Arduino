@@ -1,20 +1,6 @@
-# ---------- TPS SPD --------------
-
-
-# Grupo: "Los pollos hermanos"
-
-
-# Integrantes:
-  - Castello Thiago
-  
-  - Forni Gonzalez
-  
-  - Gatii Ingacio Pablo
- 
-  - Heredia Facundo
 
 # Link tinkercad
 
-  - Cronometro Binario Tp 1: https://www.tinkercad.com/things/iEr2Z1miyFh
+  - Cronometro Binario: https://www.tinkercad.com/things/iEr2Z1miyFh
 
-  - Sistema de cerradura inteligente con codigo Tp 2: https://www.tinkercad.com/things/0xB2gM6R9Um
+  - Sistema de cerradura inteligente con codigo: https://www.tinkercad.com/things/0xB2gM6R9Um
