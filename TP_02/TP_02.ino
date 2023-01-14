@@ -1,21 +1,5 @@
 /*
 ================================================================================================
- *  Trabajo Práctico 2: Sistema de cerradura inteligente con codigo    
- *
- *  Materia: Sistema de Procesamiento de Datos - UTN
- *  Año: 2022
- *  Alumnos: Castello Thiago; Forni Gonzalo; Gatti Ignacio Pablo; Heredia Facundo.
- *
- *  Objetivo:
- *  Desarrollar un sistema capaz de validar una contraseña ingresada a través del
- *  keypad, mediante la utilización de un código. El sistema deberá notificar al usuario
- *  mediante un mensaje en el display y luces leds en caso de que la contraseña sea
- *  correcta o incorrecta.
-================================================================================================
-*/
-
-/*
-================================================================================================
 > INCLUDES
 ================================================================================================
 */
